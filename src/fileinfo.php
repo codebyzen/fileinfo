@@ -1,5 +1,5 @@
 <?php
-namespace dsda;
+namespace dsda\fileinfo;
 
 class fileinfo {
 	

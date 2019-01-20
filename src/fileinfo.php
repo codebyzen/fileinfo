@@ -1,5 +1,5 @@
 <?php
-namespace gpi;
+namespace dsda;
 
 class fileinfo {
 	

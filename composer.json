@@ -1,0 +1,14 @@
+{
+    "name": "dsda/fileinfo",
+    "description": "Filetype detector",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ugputu",
+            "email": "dsda@dsda.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
